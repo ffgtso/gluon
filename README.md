@@ -1,3 +1,9 @@
+## v2016.2.4-based FFGT version of Gluon
+
+This is a forked version of tag v2016.2.4 of https://github.com/freifunk-gluon/gluon: all blame to info@guetersloh.freifunk.net, all fame to the Gluon maintainers.
+
+## Original README 
+
 Documentation (incomplete at this time, contribute if you can!) may be found at
 http://gluon.readthedocs.org/.
 
