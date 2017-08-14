@@ -1,9 +1,3 @@
-## v2016.2.4-based FFGT version of Gluon
-
-This is a forked version of tag v2016.2.4 of https://github.com/freifunk-gluon/gluon: all blame to info@guetersloh.freifunk.net, all fame to the Gluon maintainers.
-
-## Original README 
-
 Documentation (incomplete at this time, contribute if you can!) may be found at
 http://gluon.readthedocs.org/.
 
@@ -25,7 +19,7 @@ the future development of Gluon.
 
 Please refrain from using the `master` branch for anything else but development purposes!
 Use the most recent release instead. You can list all relaseses by running `git branch -a`
-and switch to one by running `git checkout v2016.2.4 && make update`.
+and switch to one by running `git checkout v2016.2.7 && make update`.
 
 If you're using the autoupdater, do not autoupdate nodes with anything but releases.
 If you upgrade using random master commits the nodes *will break* eventually.
