@@ -1,0 +1,25 @@
+From 3d824bd21d7f6d5db6dc238d2a68b62de471aa2a Mon Sep 17 00:00:00 2001
+From: "Hoffmeister, Stefan" <stefan@hoffmeister.biz>
+Date: Wed, 3 Jan 2018 12:58:09 +0100
+Subject: [PATCH] modules: update url to chaos calmer git repository after
+ upstream move (#1293)
+
+---
+ modules | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/modules b/modules
+index 1e81d6c..0d977af 100644
+--- a/modules
++++ b/modules
+@@ -1,6 +1,6 @@
+ GLUON_FEEDS='openwrt gluon routing luci'
+ 
+-OPENWRT_REPO=git://github.com/openwrt/openwrt.git
++OPENWRT_REPO=git://github.com/openwrt/chaos_calmer.git
+ OPENWRT_COMMIT=0f757bd2606971252f901ef3faf4dbd0086315f7
+ OPENWRT_BRANCH=chaos_calmer
+ 
+-- 
+2.7.4
+
